@@ -1,0 +1,12 @@
+{
+  "type": "pandas.parquet_dataset.ParquetDataset",
+  "filepath": "/home/runner/work/demovizproject/demovizproject/data/03_primary/model_input_table.pq",
+  "run_command": "kedro run --to-outputs=model_input_table",
+  "preview": null,
+  "preview_type": null,
+  "stats": {
+    "rows": 6027,
+    "columns": 27,
+    "file_size": 206276
+  }
+}

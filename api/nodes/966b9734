@@ -1,0 +1,12 @@
+{
+  "type": "tracking.metrics_dataset.MetricsDataset",
+  "filepath": "/home/runner/work/demovizproject/demovizproject/data/09_tracking/metrics.json",
+  "run_command": "kedro run --to-outputs=metrics",
+  "preview": {
+    "r2_score": 0.4024460316539743,
+    "mae": 584.540458759357,
+    "max_error": 11339.724764307324
+  },
+  "preview_type": "MetricsTrackingPreview",
+  "stats": null
+}

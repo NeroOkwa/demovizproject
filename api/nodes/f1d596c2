@@ -1,0 +1,12 @@
+{
+  "type": "pandas.excel_dataset.ExcelDataset",
+  "filepath": "/home/runner/work/demovizproject/demovizproject/data/01_raw/shuttles.xlsx",
+  "run_command": null,
+  "preview": null,
+  "preview_type": "TablePreview",
+  "stats": {
+    "rows": 15531,
+    "columns": 13,
+    "file_size": 936864
+  }
+}
